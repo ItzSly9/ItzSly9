@@ -16,6 +16,7 @@ I started coding around **2017–2018**, originally out of curiosity, and over t
 I love diving into how computers function internally and how software shapes interactions.
 
 💼 **Current Role:** CEO of One Pixel Studios  
+🎓 **Student:** Systems Engineering  
 🚀 Focused on building systems, tools, and high-quality development experiences.
 
 ---
