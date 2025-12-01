@@ -6,17 +6,17 @@
 <br><br>
 
 <pre>
-💼 CEO of One Pixel Studios
-🎓 Systems Engineering Student
-💻 Python • Lua • HTML • JS • C#
-🚀 Systems • UI/UX • Multiplayer Development
+CEO at One Pixel Studios
+Systems Engineering Student
+Full-Stack Developer
+Focused on systems, UI/UX and multiplayer development
 </pre>
 
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br>
 
-<!-- Redes personales -->
+<!-- Personal Networks -->
 <a href="https://www.instagram.com/b.brayan.9/">
 <img src="https://img.shields.io/badge/Instagram-b.brayan.9-E4405F?style=for-the-badge&logo=instagram" />
 </a>
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Discord-oscuroencanto-5865F2?style=for-the-badge&logo=discord" />
 </a>
 
-<!-- Redes OPS -->
+<!-- OPS Networks -->
 <a href="https://www.instagram.com/onepixelstudios_/">
 <img src="https://img.shields.io/badge/Instagram-One%20Pixel%20Studios-0095F6?style=for-the-badge&logo=instagram" />
 </a>
@@ -40,23 +40,23 @@
 
 ## 👤 About Me
 
-I'm **Itzsly**, a developer focused on **systems, scripting and multiplayer tools**.  
-Coding since **2017–2018**, passionate about performance, UI/UX and optimized experiences.
+I'm **Itzsly**, a developer focused on systems, scripting and multiplayer tools.  
+Coding since **2017–2018**, passionate about performance, UI/UX and building optimized experiences.
 
 ---
 
 ## 🧩 One Pixel Studios — Short Story
 
-**Founded:** 20/12/2019 — **Closed:** 30/05/2020 — **Reopened:** 30/11/2025  
-Created by **Sly & Dyyk**, OPS nació con una idea clara:
+**Founded:** 12/20/2019 — **Closed:** 05/30/2020 — **Reopened:** 11/30/2025  
+Created by **Sly & Dyyk**, OPS was born with a clear idea:
 
-> **“Un solo píxel puede cambiarlo todo.”**
+> **“A single pixel can change everything.”**
 
-Hoy el estudio desarrolla:
+Today, the studio develops:
 
-✔ Sistemas avanzados  
-✔ Scripts para FiveM, RedM, Arma 3, Minecraft  
-✔ Herramientas y soluciones personalizadas  
+✔ Advanced systems  
+✔ Scripts for FiveM, RedM, Arma 3, Minecraft  
+✔ Custom tools and solutions  
 
 ---
 
@@ -70,9 +70,9 @@ Hoy el estudio desarrolla:
 
 ## 🚀 Featured Work
 
-- **One Pixel Studios** — desarrollo de sistemas y herramientas avanzadas  
-- **Ascend Roleplay** — proyecto insignia tras la reapertura  
-- **Herramientas privadas y automatizaciones**
+- **One Pixel Studios** — advanced systems & tool development  
+- **Ascend Roleplay** — flagship project after the studio's return  
+- **Private tools and automation systems**
 
 ---
 
