@@ -16,9 +16,24 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br>
 
-![Discord](https://img.shields.io/badge/Discord-%40Itzsly-5865F2?style=for-the-badge&logo=discord)
-![Instagram](https://img.shields.io/badge/Instagram-itzsly_-E4405F?style=for-the-badge&logo=instagram)
-![YouTube](https://img.shields.io/badge/YouTube-One%20Pixel%20Studios-FF0000?style=for-the-badge&logo=youtube)
+<!-- Redes personales -->
+<a href="https://www.instagram.com/b.brayan.9/">
+<img src="https://img.shields.io/badge/Instagram-b.brayan.9-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+
+<a href="https://discord.com/users/">
+<img src="https://img.shields.io/badge/Discord-oscuroencanto-5865F2?style=for-the-badge&logo=discord" />
+</a>
+
+<!-- Redes OPS -->
+<a href="https://www.instagram.com/onepixelstudios_/">
+<img src="https://img.shields.io/badge/Instagram-One%20Pixel%20Studios-0095F6?style=for-the-badge&logo=instagram" />
+</a>
+
+<a href="https://x.com/onepixelst">
+<img src="https://img.shields.io/badge/X-%40onepixelst-000000?style=for-the-badge&logo=x" />
+</a>
+
 </div>
 
 ---
@@ -26,28 +41,22 @@
 ## 👤 About Me
 
 I'm **Itzsly**, a developer focused on **systems, scripting and multiplayer tools**.  
-Coding since **2017–2018**, passionate about performance, clean UI and building optimized experiences.
+Coding since **2017–2018**, passionate about performance, UI/UX and optimized experiences.
 
 ---
 
 ## 🧩 One Pixel Studios — Short Story
 
-**Founded:** 20/12/2019 by **Sly & Dyyk**  
-**Closed:** 30/05/2020  
-**Reopened:** 30/11/2025
+**Founded:** 20/12/2019 — **Closed:** 30/05/2020 — **Reopened:** 30/11/2025  
+Created by **Sly & Dyyk**, OPS nació con una idea clara:
 
-OPS nació con una idea clara:  
-**"Un solo píxel puede cambiarlo todo."**
+> **“Un solo píxel puede cambiarlo todo.”**
 
-Durante 2019–2020 creamos sistemas estables, modernos y muy usados en varias comunidades.  
-En 2025 volvimos con una visión más sólida y profesional.
-
-Hoy OPS desarrolla:
+Hoy el estudio desarrolla:
 
 ✔ Sistemas avanzados  
 ✔ Scripts para FiveM, RedM, Arma 3, Minecraft  
-✔ Herramientas internas  
-✔ Soluciones para servidores
+✔ Herramientas y soluciones personalizadas  
 
 ---
 
@@ -61,15 +70,15 @@ Hoy OPS desarrolla:
 
 ## 🚀 Featured Work
 
-- **One Pixel Studios** — sistemas y scripts avanzados  
-- **Ascend Roleplay** — proyecto principal desarrollado tras el regreso del estudio  
-- Herramientas privadas, paneles y automatizaciones
+- **One Pixel Studios** — desarrollo de sistemas y herramientas avanzadas  
+- **Ascend Roleplay** — proyecto insignia tras la reapertura  
+- **Herramientas privadas y automatizaciones**
 
 ---
 
 <div align="center">
 
 ### ⭐ Thanks for reading!  
-Reach me anytime on **Discord: @Itzsly**
+Reach me anytime on **Discord: oscuroencanto**
 
 </div>
